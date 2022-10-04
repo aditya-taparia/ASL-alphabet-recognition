@@ -8,3 +8,5 @@
   * **Sign Language MNIST dataset:** https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 # Pretrained Models
 * Pretrained models of this repository can be downloaded from the saved models folder.
+# Result
+* We were able to achieve 96% of accuracy on the test dataset.
